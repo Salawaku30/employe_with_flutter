@@ -10,7 +10,9 @@ void main() async {
           apiKey: "AIzaSyBRKZ4BYzm3cK02b8_H2pPR6NvVzqaFp3c",
           appId: "1:709533050259:android:642b244d5aefbaca8b3466",
           messagingSenderId: "709533050259",
-          projectId: "employee-f7b3b"));
+          projectId: "employee-f7b3b"
+    )
+  );
   runApp(const MyApp());
 }
 
